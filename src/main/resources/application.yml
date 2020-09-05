@@ -3,3 +3,6 @@ spring:
     view:
       prefix: /WEB-INF/views/ 
       suffix: .jsp
+webjars:
+  bootstrap: "4.5.0"
+  jquery: "3.5.1"
